@@ -8,4 +8,4 @@ words:
 spring:
   profiles: cold-noun
 words:
-  icicle,refrigerator,blizzard,snowball
+  ICICLE,REFRIGERATOR,BLIZZARD,SNOWBALL
